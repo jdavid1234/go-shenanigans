@@ -1,4 +1,3 @@
-
 package stringutil
 
 import "testing"

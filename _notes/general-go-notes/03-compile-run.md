@@ -11,6 +11,16 @@ echo $GOPATH
 
 ---
 
+### Format our go files:
+
+```sh
+go fmt github.com/Ylazerson/go-shenanigans/hello
+go fmt github.com/Ylazerson/go-shenanigans/stringutil
+```
+
+
+---
+
 ### Test the files in the `stringutil` package:
 
 ```sh
