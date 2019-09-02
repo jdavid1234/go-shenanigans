@@ -8,9 +8,12 @@ import (
 	"github.com/Ylazerson/go-shenanigans/head-first-go/05/datafile"
 )
 
+// -- ------------------------------------------
 // THIS IS OBVIOUSLY NOT THE CORRECT APPRAOCH TO USE
 // ... but hey for now .....
 const filePath = "/home/laz/tmp/ch05-data.txt"
+
+// -- ------------------------------------------
 
 func main() {
 
