@@ -46,8 +46,7 @@ func main() {
 	urls := []string{
 		"https://example.com/",
 		"https://golang.org/",
-		"https://golang.org/doc"
-	}
+		"https://golang.org/doc"}
 
 	for _, url := range urls {
 		go responseSize(url, pages)
